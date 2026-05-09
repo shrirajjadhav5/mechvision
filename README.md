@@ -1,3 +1,6 @@
+## 🚀 Live App
+👉 [Open MechVision AI](https://mechvision-ehcnsbjnxhq6bbhbzsnp27.streamlit.app/)
+
 # ⚙️ MechVision AI — Mechanical Diagram Intelligence System
 
 An end-to-end system that uses **Claude AI** (vision) + **scikit-learn** ML
