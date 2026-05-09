@@ -1,3 +1,7 @@
+## 📄 Project Report
+[Download Full Project Report](MechVision_AI_Project_Report.docx)
+
+
 ## 🚀 Live App
 👉 [Open MechVision AI](https://mechvision-ehcnsbjnxhq6bbhbzsnp27.streamlit.app/)
 
